@@ -2623,6 +2623,528 @@
         }
       ]
 
+    },
+    {
+      "language": "telugu",
+      "title": "మీరు సురక్షితంగా ఉన్నారా?",
+      "description": "కోవిడ్ కరోనావైరస్కు వ్యతిరేకంగా ప్రాథమిక రక్షణ చర్యలు",
+      "path": "safe_tl",
+      "buttonText": "క్విజ్ తీసుకోండి",
+      "successMessage": "కోవిడ్ -19 కరోనావైరస్కు వ్యతిరేకంగా ప్రాథమిక రక్షణ చర్యల గురించి మీకు ఇప్పుడు తెలుసు",
+      "readMore": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "questions": [
+        {
+          "title": "మీరు తరచుగా చేతులు కడుగుతున్నారా?",
+          "description": "add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, నేను తరచూ చేతులు కడుగుతున్నాను",
+              "title": "మంచిది, మీ చేతులను తరచుగా కడగాలి",
+              "description": [
+                "సబ్బు మరియు నీటితో మీ చేతులను తరచుగా, క్రమం తప్పకుండా కడగడం లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ ఉపయోగించడం వల్ల మీ చేతుల్లో ఉండే వైరస్లను చంపుతుంది."
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/bPITHEiFWLc",
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు",
+              "title": "మీరు మీ చేతులను ఎక్కువగా కడగాలి",
+              "description": [
+                "సబ్బు మరియు నీటితో లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ తో మీ చేతులను తరచుగా, క్రమం తప్పకుండా కడగడం మీ చేతుల్లో ఉండే వైరస్లను చంపుతుంది."
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/bPITHEiFWLc",
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "మీరు తరచుగా మీ కళ్ళు, ముక్కు మరియు నోటిని తాకుతున్నారా?",
+          "description": "add description for question",
+          "hint": "కళ్ళు, ముక్కు మరియు నోరు తాకడం మానుకోండి",
+          "answers": [
+            {
+              "option": "అవును నేను చేస్తాను",
+              "title": "కళ్ళు, ముక్కు మరియు నోరు తాకడం మానుకోండి",
+              "description": [
+                "చేతులు అనేక ఉపరితలాలను తాకుతాయి మరియు వైరస్లను తీయగలవు. కలుషితమైన తర్వాత, చేతులు మీ కళ్ళు, ముక్కు లేదా నోటికి వైరస్ను బదిలీ చేస్తాయి. అక్కడ నుండి, వైరస్ మీ శరీరంలోకి ప్రవేశిస్తుంది మరియు మిమ్మల్ని అనారోగ్యానికి గురి చేస్తుంది."
+              ],
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు",
+              "title": "మంచిది, కళ్ళు, ముక్కు మరియు నోటిని తాకకుండా ఉండండి.",
+              "description": [
+                "చేతులు అనేక ఉపరితలాలను తాకుతాయి మరియు వైరస్లను తీయగలవు. కలుషితమైన తర్వాత, చేతులు మీ కళ్ళు, ముక్కు లేదా నోటికి వైరస్ను బదిలీ చేస్తాయి. అక్కడ నుండి, వైరస్ మీ శరీరంలోకి ప్రవేశిస్తుంది మరియు మిమ్మల్ని అనారోగ్యానికి గురి చేస్తుంది."
+              ],
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "మీరు దగ్గు లేదా తుమ్ము ఉన్నప్పుడు మీ వంగిన మోచేయి లేదా కణజాలంతో మీ నోరు మరియు ముక్కును కప్పి ఉంచారా?",
+          "description": "add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును",
+              "title": "మంచిది, మీరు మరియు మీ చుట్టుపక్కల ప్రజలు మంచి శ్వాసకోశ పరిశుభ్రతను పాటిస్తున్నారని నిర్ధారించుకోండి.",
+              "description": [
+                "మీరు దగ్గు లేదా తుమ్ము ఉన్నప్పుడు మీ నోరు మరియు ముక్కును మీ వంగిన మోచేయి లేదా కణజాలంతో కప్పండి, ఆపై ఉపయోగించిన కణజాలాన్ని వెంటనే పారవేయండి. బిందువులు వైరస్ వ్యాప్తి చెందుతాయి. మంచి శ్వాసకోశ పరిశుభ్రతను పాటించడం ద్వారా మీ చుట్టూ ఉన్న ప్రజలను జలుబు, ఫ్లూ మరియు COVID-19 వంటి వైరస్ల నుండి రక్షించవచ్చు."
+              ],
+              //"youtubeUrl": "https://www.youtube.com/embed/6Ooz1GZsQ70",
+              "imageUrl": "https://pbs.twimg.com/media/ESAQNdGXUAEkHGM?format=jpg&name=medium",
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు",
+              "title": "మంచి శ్వాసకోశ పరిశుభ్రత పాటించండి.",
+              "description": [
+                "మీరు మరియు మీ చుట్టుపక్కల ప్రజలు మంచి శ్వాసకోశ పరిశుభ్రతను అనుసరిస్తున్నారని నిర్ధారించుకోండి. మీరు దగ్గు లేదా తుమ్ము ఉన్నప్పుడు మీ వంగిన మోచేయి లేదా కణజాలంతో మీ నోరు మరియు ముక్కును కప్పడం అంటే, ఉపయోగించిన కణజాలాన్ని వెంటనే పారవేయండి.",
+                "బిందువులు వైరస్ వ్యాప్తి చెందుతాయి. మంచి శ్వాసకోశ పరిశుభ్రతను పాటించడం ద్వారా మీరు మీ చుట్టూ ఉన్న ప్రజలను జలుబు, ఫ్లూ మరియు COVID-19 వంటి వైరస్ల నుండి రక్షిస్తారు."
+              ],
+              //"youtubeUrl": "https://www.youtube.com/embed/6Ooz1GZsQ70",
+              "imageUrl": "https://pbs.twimg.com/media/ESAQNdGXUAEkHGM?format=jpg&name=medium",
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "మీరు ఏదైనా హృదయనాళ లేదా దీర్ఘకాలిక శ్వాసకోశ వ్యాధి, డయాబెటిస్, రక్తపోటు లేదా క్యాన్సర్ ఉన్నారా?",
+          "description": "add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును",
+              "title": "జాగ్రత్త వహించండి, మీకు సోకినట్లయితే సమస్య వచ్చే అవకాశం ఉంది",
+              "description": [
+                "మీకు ఇంతకుముందు ఉన్న పరిస్థితులు ఉంటే కొరోనావైరస్ నుండి ప్రాణాంతక ప్రమాదం ఎక్కువగా ఉంటుంది. మీరు ఈ కోవలోకి వస్తే అదనపు జాగ్రత్తలు తీసుకోండి. మీరు లక్షణాలను అనుభవిస్తే వెంటనే వైద్య సహాయం తీసుకోండి."
+              ],
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు",
+              "title": "మీకు సమస్యలకు తక్కువ అవకాశం ఉంది",
+              "description": [
+                "అటువంటి ముందస్తు పరిస్థితులు లేనట్లయితే, సోకినట్లయితే, సమస్యల యొక్క అసమానత తగ్గుతుంది"
+              ],
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "మీరు జ్వరం, దగ్గు లేదా శ్వాస తీసుకోవడంలో ఇబ్బంది పడుతుంటే, ప్రస్తుత దృష్టాంతంలో ఏమి చేయాలో మీకు తెలుసా?",
+          "description": "add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "తెలుసు",
+              "title": "మంచిది, మీరు రోగలక్షణంగా ఉంటే, వైద్య సంరక్షణ కోరడం మొదటి పని.",
+              "description": [
+                "మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే, వీలైనంత త్వరగా వైద్య సహాయం తీసుకోండి. మీకు అనారోగ్యం అనిపిస్తే ఇంట్లో ఉండండి. మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే, వైద్య సహాయం తీసుకోండి మరియు ముందుగానే కాల్ చేయండి. మీ స్థానిక ఆరోగ్య అధికారం యొక్క సూచనలను అనుసరించండి.",
+                "మీ ప్రాంతంలోని పరిస్థితులపై జాతీయ మరియు స్థానిక అధికారులకు తాజా సమాచారం ఉంటుంది. ముందుగానే కాల్ చేస్తే మీ ఆరోగ్య సంరక్షణ ప్రదాత మిమ్మల్ని త్వరగా సరైన ఆరోగ్య సదుపాయానికి దారి తీస్తుంది. ఇది మిమ్మల్ని రక్షిస్తుంది మరియు వైరస్లు మరియు ఇతర ఇన్ఫెక్షన్ల వ్యాప్తిని నివారించడంలో సహాయపడుతుంది."
+              ],
+              "correctAnswer": true
+            },
+            {
+              "option": "తెలీదు",
+              "title": "మీరు రోగలక్షణంగా ఉంటే అత్యవసర వైద్య సంరక్షణ తీసుకోండి.",
+              "description": [
+                "మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే, వీలైనంత త్వరగా వైద్య సహాయం తీసుకోండి. మీకు అనారోగ్యం అనిపిస్తే ఇంట్లో ఉండండి. మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే, వైద్య సహాయం తీసుకోండి మరియు ముందుగానే కాల్ చేయండి. మీ స్థానిక ఆరోగ్య అధికారం యొక్క సూచనలను అనుసరించండి.",
+                "మీ ప్రాంతంలోని పరిస్థితులపై జాతీయ మరియు స్థానిక అధికారులకు తాజా సమాచారం ఉంటుంది. ముందుగానే కాల్ చేస్తే మీ ఆరోగ్య సంరక్షణ ప్రదాత మిమ్మల్ని త్వరగా సరైన ఆరోగ్య సదుపాయానికి దారి తీస్తుంది. ఇది మిమ్మల్ని రక్షిస్తుంది మరియు వైరస్లు మరియు ఇతర ఇన్ఫెక్షన్ల వ్యాప్తిని నివారించడంలో సహాయపడుతుంది."
+              ],
+              "correctAnswer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "telugu",
+      "title": "రక్షణ చర్యలు",
+      "description": "కొత్త కరోనావైరస్కు వ్యతిరేకంగా ప్రాథమిక రక్షణ చర్యలు",
+      "path": "protective_measures_tl",
+      "buttonText": "క్విజ్ తీసుకోండి",
+      "successMessage": "క్రొత్త కరోనావైరస్కు వ్యతిరేకంగా ప్రాథమిక రక్షణ చర్యల గురించి మీకు ఇప్పుడు తెలుసు",
+      "readMore": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "questions": [
+        {
+          "title": "మీరు శ్వాసకోశ పరిశుభ్రత పాటిస్తున్నారా? / Do you practice respiratory hygiene? ",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి /add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, నేను చేస్తా / Yes, I do",
+              "title": "మంచిది, మీరు మరియు మీ చుట్టుపక్కల ప్రజలు మంచి శ్వాసకోశ పరిశుభ్రతను పాటిస్తున్నారని నిర్ధారించుకోండి. /Good, make sure you, and the people around you, follow good respiratory hygiene.",
+              "description": [
+                "మంచిది, శ్వాసకోశ పరిశుభ్రతను ఉంచడం వలన మీరు వ్యాధి బారిన పడకుండా ఉండటమే కాకుండా, CoVID 19 కి వ్యతిరేకంగా పోరాడటానికి ముందు అడుగు వేయడానికి ఒక ఉదాహరణను ఉంచడం ద్వారా ఇతరులకు సహాయపడుతుంది. /Good, keeping respiratory hygiene not only keeps you from getting infected but also helps others  by setting an example to get a front step towards  to fight against  CoVID 19 "
+              ],
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు, నేను చేయను / No, I don't",
+              "title": "మంచి శ్వాసకోశ పరిశుభ్రత పాటించండి.",
+              "description": [
+                "మీరు మరియు మీ చుట్టుపక్కల ప్రజలు మంచి శ్వాసకోశ పరిశుభ్రతను అనుసరిస్తున్నారని నిర్ధారించుకోండి. మీరు దగ్గు లేదా తుమ్ము ఉన్నప్పుడు మీ వంగిన మోచేయి లేదా కణజాలంతో మీ నోరు మరియు ముక్కును కప్పడం దీని అర్థం. అప్పుడు ఉపయోగించిన కణజాలాన్ని వెంటనే పారవేయండి. /Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.",
+                "బిందువులు వైరస్ వ్యాప్తి చెందుతాయి. మంచి శ్వాసకోశ పరిశుభ్రతను పాటించడం ద్వారా మీరు మీ చుట్టూ ఉన్న ప్రజలను జలుబు, ఫ్లూ మరియు COVID-19 వంటి వైరస్ల నుండి రక్షిస్తారు./Droplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19."
+              ],
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "ప్రజారోగ్య అధికారులు మరియు మీ ఆరోగ్య సంరక్షణ ప్రదాత ఇచ్చిన సలహాలను మీరు ఖచ్చితంగా పాటిస్తున్నారా? /Do you strictly follow advice given by public health officials and your health care provider?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "కళ్ళు, ముక్కు మరియు నోరు తాకడం మానుకోండి /Avoid touching eyes, nose and mouth",
+          "answers": [
+            {
+              "option": "అవును నేను చేస్తా / Yes, I do",
+              "title": "మంచిది, సమాచారం ఇవ్వండి మరియు ఆరోగ్య సమస్యలను వినండి/ Good, Stay informed and listen to health officals",
+              "description": [
+                "ఏమి జరుగుతుందో, వైరస్ సంక్రమణను ఎలా నివారించాలో మరియు ప్రధానంగా ఇతరులకు అవగాహన కల్పించడం గురించి సరైన జ్ఞానం పొందడం ఎల్లప్పుడూ మంచిది. మీరు రోగలక్షణమని భావిస్తే వెంటనే ఆరోగ్య శాఖ సహాయం తీసుకోండి /It is always good to get proper knowledge about what is happening, how to prevent virus infection, and also primarily to educate others. Find help from the health department immediately if you feel you are symptomatic"
+              ],
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు, నేను చేయను / No, I don't",
+              "title": "మీరు సమాచారం కలిగి ఉండాలి మరియు ఆరోగ్య సమస్యలను వినాలి/You need to stay informed and listen to health officals",
+              "description": [
+                "COVID-19 గురించి తాజా పరిణామాలపై సమాచారం ఇవ్వండి. COVID-19 నుండి మిమ్మల్ని మరియు ఇతరులను ఎలా రక్షించుకోవాలో మీ ఆరోగ్య సంరక్షణ ప్రదాత, మీ జాతీయ మరియు స్థానిక ప్రజారోగ్య అధికారం లేదా మీ యజమాని ఇచ్చిన సలహాలను అనుసరించండి /Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider, your national and local public health authority or your employer on how to protect yourself and others from COVID-19.",
+                "ఎందుకు? మీ ప్రాంతంలో COVID-19 వ్యాప్తి చెందుతుందా అనే దానిపై జాతీయ మరియు స్థానిక అధికారులు చాలా తాజా సమాచారం కలిగి ఉంటారు. మీ ప్రాంతంలోని ప్రజలు తమను తాము రక్షించుకోవడానికి ఏమి చేయాలి అనే దానిపై సలహా ఇవ్వడానికి వారు ఉత్తమంగా ఉంచారు /Why? National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves."
+              ],
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "ముసుగు ఎలా ధరించాలో మరియు దానిని ఎలా పారవేయాలో మీకు తెలుసా? / Do you know how to put on a mask and how to dispose of it?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును నేను చేస్తా / Yes, I do",
+              "title": "మంచిది, మాస్క్‌లను సరిగ్గా ఉపయోగించడం వల్ల వైరస్‌ను నివారించవచ్చు /Good, using masks properly can help prevent the virus",
+              "description": [
+                "వైరస్ సంక్రమణను నివారించడంలో ముసుగులు సహాయపడతాయి, వాటిని ఎలా ఉపయోగించాలో మరియు వాటిని ఎలా నాశనం చేయాలో తెలుసుకోవడం చాలా ముఖ్యం. మరింత తెలుసుకోవడానికి ఈ క్రింది వీడియోను చూడండి:/Masks help in preventing the viral infection so important to know how to use them and destroy them properly. Refer the video below to learn more:"
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/lrvFrH_npQI",
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు, నేను చేయను /No, I don't",
+              "title": "ముసుగును ఎలా ఉపయోగించాలో మీరు తెలుసుకోవాలి/ You need to know how to use a mask properly",
+              "description": [
+                "ముసుగు వేసే ముందు, ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ లేదా సబ్బు మరియు నీటితో చేతులు శుభ్రం చేయండి./ Before putting on a mask, clean hands with alcohol-based hand rub or soap and water.",
+                "ముసుగుతో మీ నోరు మరియు ముక్కును కప్పి, మీ ముఖం మరియు ముసుగు మధ్య ఖాళీలు లేవని నిర్ధారించుకోండి. /Cover your mouth and nose with the mask and make sure there are no gaps between your face and the mask.",
+                "ముసుగు ఉపయోగించినప్పుడు దానిని తాకడం మానుకోండి; మీరు అలా చేస్తే, ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ లేదా సబ్బు మరియు నీటితో మీ చేతులను శుభ్రం చేయండి /Avoid touching the mask while using it; if you do, clean your hands with alcohol-based hand rub or soap and water.",
+                "ముసుగు తడిగా ఉన్న వెంటనే దాన్ని కొత్తగా మార్చండి మరియు సింగిల్-యూజ్ మాస్క్‌లను తిరిగి ఉపయోగించవద్దు. / Replace the mask with a new one as soon as it is damp and do not re-use single-use masks.",
+                "ముసుగు తొలగించడానికి: వెనుక నుండి తీసివేయండి (ముసుగు ముందు భాగంలో తాకవద్దు); క్లోజ్డ్ డబ్బాలో వెంటనే విస్మరించండి; ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ లేదా సబ్బు మరియు నీటితో చేతులు శుభ్రం చేయండి./To remove the mask: remove it from behind (Do not touch the front of mask); discard immediately in a closed bin; clean hands with alcohol-based hand rub or soap and water.",
+                "మరింత తెలుసుకోవడానికి ఈ క్రింది వీడియో చూడండి: /Watch the video below to learn more:"
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/lrvFrH_npQI",
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "మీరు COVID-19 సోకిన దేశం నుండి ఇంటికి ఎగురుతున్నారా? ఏమి చేయాలో మీకు తెలుసా? / Are you flying home from a COVID-19 infected country? Do you know what to do?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి /add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును నేను చేస్తా / Yes, I do",
+              "title": "మంచిది, విమానాశ్రయంలో మీకు ఇచ్చిన అన్ని సూచనలను అనుసరించండి మరియు మిమ్మల్ని 14 రోజుల ఇంటి నిర్బంధంలో ఉంచండి. / Good, follow all instructions given to you at the airport and put yourself in a 14 day home quarantine.",
+              "description": [
+                " విమానం లోపల మరియు విమానాశ్రయంలో అవసరమైన అన్ని సూచనలు మీకు అందించబడతాయి. దయచేసి వాటిని అర్థం చేసుకోవడంలో మరియు వాటిని పాటించడంలో అదనపు జాగ్రత్తలు తీసుకోండి. మీ ప్రయాణ చరిత్ర లేదా లక్షణాలను దాచడానికి ప్రయత్నించవద్దు. ఇది సందులో సమస్యలకు మాత్రమే దారితీస్తుంది. మీరు వచ్చిన తర్వాత విమానాశ్రయంలో ఆరోగ్య పరీక్షకు గురి కావచ్చు. దయచేసి విమానాశ్రయ కార్యాలయాలతో పూర్తిగా సహకరించండి, వారు మీ స్వంత భద్రత కోసం పనిచేస్తున్నారు. ఇంటికి చేరుకున్న తర్వాత, దయచేసి మిమ్మల్ని 14 రోజుల ఇంటిలో ఉంచండి. /All the necessary instructions will be provided to you inside the airplane and at the airport. Please take extra care in understanding and complying with them. Do not try to hide your travel history or symptoms. This can only lead to problems down the lane. You might be subjected to a health checkup at the airport upon arrival. Please co-operate with the airport officals completely, they are working for your own safety. After getting home, please put yourself in a 14 day home quarantine and contact the local health bodies if you face any symptoms."
+              ],
+              "correctAnswer": true
+            },
+            {
+              "option": "లేదు, నేను చేయను / No, I don't",
+              "title": "విమానాశ్రయాలలో మీకు ఇచ్చిన అన్ని సూచనలను అనుసరించండి మరియు మిమ్మల్ని 14 రోజుల ఇంటి నిర్బంధంలో ఉంచండి. / Follow all instructions given to you at airports and put yourself in a 14 day home quarantine.",
+              "description": [
+                "విమానం లోపల మరియు విమానాశ్రయంలో అవసరమైన అన్ని సూచనలు మీకు అందించబడతాయి. దయచేసి వాటిని అర్థం చేసుకోవడంలో మరియు వాటిని పాటించడంలో అదనపు జాగ్రత్తలు తీసుకోండి. మీ ప్రయాణ చరిత్ర లేదా లక్షణాలను దాచడానికి ప్రయత్నించవద్దు. ఇది సందులో సమస్యలకు మాత్రమే దారితీస్తుంది. మీరు వచ్చిన తర్వాత విమానాశ్రయంలో ఆరోగ్య పరీక్షకు గురి కావచ్చు. దయచేసి విమానాశ్రయ కార్యాలయాలతో పూర్తిగా సహకరించండి, వారు మీ స్వంత భద్రత కోసం పనిచేస్తున్నారు. ఇంటికి చేరుకున్న తర్వాత, దయచేసి మిమ్మల్ని 14 రోజుల ఇంటిలో ఉంచండి / All the necessary instructions will be provided to you inside the airplane and at the airport. Please take extra care in understanding and complying with them. Do not try to hide your travel history or symptoms. This can only lead to problems down the lane. You might be subjected to a health checkup at the airport upon arrival. Please co-operate with the airport officals completely, they are working for your own safety. After getting home, please put yourself in a 14 day home quarantine and contact the local health bodies if you face any symptoms."
+              ],
+              "correctAnswer": false
+            }
+          ]
+        },
+        {
+          "title": "రాబోయే వారాల్లో ఏదైనా కార్యక్రమానికి లేదా సమావేశానికి హాజరు కావాలని లేదా నిర్వహించాలని మీరు ఆలోచిస్తున్నారా? /Are you planning to attend or organise any event or gathering in the coming weeks?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి /add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును నేనే /Yes, I am",
+              "title": "లేదు! COVID-19 వ్యాప్తిని నివారించడానికి రాబోయే కొద్ది వారాల పాటు అన్ని సమావేశాలకు దూరంగా ఉండండి. / Don't! Avoid all gatherings for the next few weeks to prevent the spread of COVID-19.",
+              "description": [
+                "ప్రజల సమూహ సమావేశాలు వైరస్ వ్యాప్తి చెందడానికి సులభమైన మార్గం. రాబోయే కొద్ది వారాల పాటు వివాహాలు, అంత్యక్రియలు, చలనచిత్రాలు మరియు ఇతర బహిరంగ కార్యక్రమాలతో సహా ఎలాంటి కార్యక్రమాలకు హాజరుకావద్దు. మీరు అలాంటి ఏదైనా కార్యక్రమానికి నిర్వాహకులైతే, ఈవెంట్‌ను వాయిదా వేయడాన్ని పరిశీలించండి మీ హాజరైన వారి భద్రత కోసం తరువాతి తేదీకి.  /Mass gatherings of people are an easy way for the virus to spread. Avoid attending any kind of events including marriages, funerals, movies and other public events for the next few weeks. If you are organisor of any such event, consider postponing the event to a later date for the safety of your attendees."
+              ],
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, నేను కాదు /No, I am not",
+              "title": "మంచిది, COVID-19 వ్యాప్తిని నివారించడానికి రాబోయే కొద్ది వారాల పాటు సామూహిక సమావేశాలకు దూరంగా ఉండండి. /Good, avoid any mass gatherings for the next few weeks to prevent the spread of COVID-19.",
+              "description": [
+                "ప్రజల సమూహ సమావేశాలు వైరస్ వ్యాప్తి చెందడానికి సులభమైన మార్గం. రాబోయే కొద్ది వారాల పాటు వివాహాలు, అంత్యక్రియలు, చలనచిత్రాలు మరియు ఇతర బహిరంగ కార్యక్రమాలతో సహా ఎలాంటి కార్యక్రమాలకు హాజరుకావద్దు. మీరు అలాంటి ఏదైనా కార్యక్రమానికి నిర్వాహకులైతే, ఈవెంట్‌ను వాయిదా వేయడాన్ని పరిశీలించండి మీ హాజరైన వారి భద్రత కోసం తరువాతి తేదీకి. / Mass gatherings of people are an easy way for the virus to spread. Avoid attending any kind of events including marriages, funerals, movies and other public events for the next few weeks. If you are organisor of any such event, consider postponing the event to a later date for the safety of your attendees."
+              ],
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "రాబోయే వారాల్లో మీరు ఎక్కడో ప్రయాణించాలని ఆలోచిస్తున్నారా?/Are you planning to travel somewhere in the coming weeks?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి /add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును నేనే /Yes, I am",
+              "title": "లేదు, COVID-19 వ్యాప్తిని నివారించడానికి రాబోయే కొద్ది వారాల పాటు మీరు ఎక్కడ ఉన్నా అక్కడే ఉండటం మంచిది. / Don't, it is best to stay wherever you are for the next few weeks to prevent the spread of COVID-19.",
+              "description": [
+                "రాబోయే కొద్ది వారాల పాటు అన్ని రకాల పర్యటనలు, వ్యాపారం లేదా ఆనందం మానుకోండి. ప్రయాణించేటప్పుడు మీరు సోకిన వ్యక్తితో సంప్రదించవచ్చు. మీరు ఇప్పటికే ఎక్కడ ఉన్నా అక్కడే ఉండటం మంచిది. వైద్య సహాయం పొందడానికి మాత్రమే బయట ప్రయాణించండి /Avoid all kinds of trips, business or pleasure, for the next few weeks. You can come in contact with an infected person while travelling. It is best to stay wherever you already are. Travel outside only to get medical help."
+              ],
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, నేను కాదు /No, I am not",
+              "title": "మంచిది, COVID-19 వ్యాప్తిని నివారించడానికి రాబోయే కొద్ది వారాల పాటు ఎలాంటి ప్రయాణాలకు దూరంగా ఉండండి. /Good, avoid any kind of travel for the next few weeks to prevent the spread of COVID-19.",
+              "description": [
+                "రాబోయే కొద్ది వారాల పాటు అన్ని రకాల పర్యటనలు, వ్యాపారం లేదా ఆనందం మానుకోండి. ప్రయాణించేటప్పుడు మీరు సోకిన వ్యక్తితో సంప్రదించవచ్చు. మీరు ఇప్పటికే ఎక్కడ ఉన్నా అక్కడే ఉండటం మంచిది. వైద్య సహాయం పొందడానికి మాత్రమే బయట ప్రయాణించండి. /Avoid all kinds of trips, business or pleasure, for the next few weeks. You can come in contact with an infected person while travelling. It is best to stay wherever you already are. Travel outside only to get medical help."
+              ],
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "ముసుగు ఎప్పుడు ఉపయోగించాలో మీకు తెలుసా? /Do you know when to use a mask?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి /add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "ముసుగులు ఎప్పుడు ఉపయోగించాలో నాకు తెలుసు / I know when to use masks",
+              "title": "మంచిది, ముసుగులు సరైన మార్గంలో ఉపయోగించడం వైరస్ను నివారించడంలో సహాయపడుతుంది /Good, using masks the right way will help prevent the virus",
+              "description": [
+                "ముసుగులు ఎప్పుడు ఉపయోగించాలో తెలుసుకోవడం మరియు ఇతరులకు అదేవిధంగా అవగాహన కల్పించడం చాలా ముఖ్యం./ It is important to know when to use masks and educate others on the same.",
+                "మీరు ఆరోగ్యంగా ఉంటే, మీరు 2019-nCoV సంక్రమణ అనుమానం ఉన్న వ్యక్తిని జాగ్రత్తగా చూసుకుంటే మాత్రమే మీరు ముసుగు ధరించాలి. /If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.",
+                "మీరు దగ్గు లేదా తుమ్ము అయితే ముసుగు ధరించండి. / Wear a mask if you are coughing or sneezing.",
+                "ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ లేదా సబ్బు మరియు నీటితో తరచుగా చేతి శుభ్రపరచడంతో కలిపి ఉపయోగించినప్పుడు మాత్రమే ముసుగులు ప్రభావవంతంగా ఉంటాయి. /Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.",
+                "మీరు ముసుగు ధరిస్తే, మీరు దానిని ఎలా ఉపయోగించాలో తెలుసుకోవాలి మరియు దానిని సరిగ్గా పారవేయాలి. /If you wear a mask, then you must know how to use it and dispose of it properly.",
+                "మరింత తెలుసుకోవడానికి ఈ క్రింది వీడియో చూడండి: /Watch the video below to learn more:"
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/Ded_AxFfJoQ",
+              "correctAnswer": true
+            },
+            {
+              "option": "నాకు ఖచ్చితంగా తెలియదు/I'm not quite sure",
+              "title": "ముసుగులు ఎప్పుడు ఉపయోగించాలో తెలియజేయండి / Be informed about when to use masks",
+              "description": [
+                "ముసుగులు ఎప్పుడు ఉపయోగించాలో తెలుసుకోవడం మరియు ఇతరులకు అదేవిధంగా అవగాహన కల్పించడం చాలా ముఖ్యం. / It's important to know when to use masks and educate others on the same.",
+                "మీరు ఆరోగ్యంగా ఉంటే, మీరు 2019-nCoV సంక్రమణ అనుమానం ఉన్న వ్యక్తిని జాగ్రత్తగా చూసుకుంటే మాత్రమే మీరు ముసుగు ధరించాలి./If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.",
+                "మీరు దగ్గు లేదా తుమ్ము అయితే ముసుగు ధరించండి./ Wear a mask if you are coughing or sneezing.",
+                "ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్ లేదా సబ్బు మరియు నీటితో తరచుగా చేతి శుభ్రపరచడంతో కలిపి ఉపయోగించినప్పుడు మాత్రమే ముసుగులు ప్రభావవంతంగా ఉంటాయి./ Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.",
+                "మీరు ముసుగు ధరిస్తే, మీరు దానిని ఎలా ఉపయోగించాలో తెలుసుకోవాలి మరియు దానిని సరిగ్గా పారవేయాలి. /If you wear a mask, then you must know how to use it and dispose of it properly.",
+                "మరింత తెలుసుకోవడానికి ఈ క్రింది వీడియో చూడండి: / Watch the video below to learn more:"
+              ],
+              "youtubeUrl": "https://www.youtube.com/embed/Ded_AxFfJoQ",
+              "correctAnswer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "telugu",
+      "title": "మిత్ బస్టర్స్ / Myth Busters",
+      "description": "COVID-19 కు సంబంధించిన సాధారణ అపోహలు మరియు అపోహలు / Common myths and misconceptions regarding COVID-19",
+      "path": "myth_busters_tl",
+      "buttonText": "క్విజ్ తీసుకోండి / Take the Quiz",
+      "successMessage": "COVID-19 కి సంబంధించిన సాధారణ పురాణాలు అవి /Those were the common myths related to COVID-19",
+      "readMore": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "questions": [
+        {
+          "title": "కరోనా వ్యాప్తిని వాతావరణం ప్రభావితం చేయగలదా? / Can weather influence the corona outbreak?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "వేడి మరియు తేమతో కూడిన పరిస్థితులు వైరస్ను చంపుతాయి! /Hot and Humid Conditions kill the Virus!",
+              "title": "లేదు, వేడి మరియు తేమతో కూడిన వాతావరణం ఉన్న ప్రాంతాలతో సహా అన్ని ప్రాంతాలలో COVID-19 వైరస్ వ్యాప్తి చెందుతుంది / No, COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/52.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "చల్లని వాతావరణంలో ఉండవచ్చు! / May be in cold climate!",
+              "title": "లేదు, చల్లని వాతావరణం కొత్త కరోనావైరస్ను చంపగలదని నమ్మడానికి ఎటువంటి కారణం లేదు / No, There is no reason to believe that cold weather can kill the new coronavirus",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb-cold-snow.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "COVID-19 వైరస్ అన్ని ప్రాంతాలలో వ్యాపిస్తుంది / COVID-19 virus can be transmitted in ALL AREAS",
+              "title": "COVID-19 వైరస్ వేడి మరియు తేమతో కూడిన ప్రాంతాలతో సహా అన్ని ప్రాంతాలలో వ్యాపిస్తుంది. / COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather.",
+              "description": [
+                "వాతావరణంతో సంబంధం లేకుండా, మీరు నివసిస్తుంటే రక్షణ చర్యలు తీసుకోండి లేదా COVID-19 ను నివేదించే ప్రాంతానికి వెళ్లండి. COVID-19 నుండి మిమ్మల్ని మీరు రక్షించుకోవడానికి ఉత్తమ మార్గం మీ చేతులను తరచుగా శుభ్రపరచడం. ఇది చేయడం ద్వారా మీరు వైరస్లను తొలగిస్తారు మీ చేతులు మరియు మీ కళ్ళు, నోరు మరియు ముక్కును తాకడం ద్వారా సంభవించే సంక్రమణను నివారించండి. /Regardless of climate, adopt protective measures if you live in, or travel to an area reporting COVID-19. The best way to protect yourself against COVID-19 is by frequently cleaning your hands. By doing this you eliminate viruses that may be on your hands and avoid infection that could occur by then touching your eyes, mouth, and nose."
+              ],
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "COVID-19 ను నివారించడానికి వేడి స్నానాలు సహాయపడతాయా? / Can Hot baths help prevent COVID-19?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "కళ్ళు, ముక్కు మరియు నోరు తాకడం మానుకోండి /Avoid touching eyes, nose and mouth",
+          "answers": [
+            {
+              "option": "అవును, వేడి స్నానాలు వైరస్ను నివారించడంలో సహాయపడతాయి / Yes, Hot baths can help prevent the virus",
+              "title": "వేడి స్నానం చేయడం వల్ల మీరు COVID-19 ను పట్టుకోలేరు. / Taking a hot bath will not prevent you from catching COVID-19. ",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb-hot-bath.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, వేడి స్నానం చేయడం వల్ల వైరస్ రాదు / No, Taking a hot bath will not prevent the virus",
+              "title": "వేడి స్నానం చేయడం వల్ల మీరు COVID-19 ను పట్టుకోలేరు. /Taking a hot bath will not prevent you from catching COVID-19. ",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb-hot-bath.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "UV క్రిమిసంహారక దీపం వైరస్ను చంపగలదా? /Can an UV disinfection lamp kill the virus?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, రేడియేషన్లు శక్తివంతమైనవి కాబట్టి UV క్రిమిసంహారక దీపాలు ఉపయోగపడతాయి / Yes, radiations are powerful so UV disinfection lamps are useful",
+              "title": "చేతులు లేదా చర్మం యొక్క ఇతర ప్రాంతాలను క్రిమిరహితం చేయడానికి UV దీపాలను ఉపయోగించకూడదు. / UV lamps should not be used to sterilize hands or other areas of skin.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-31.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, రేడియేషన్లు హానికరం /No, radiations are harmful ",
+              "title": "చేతులు లేదా చర్మం యొక్క ఇతర ప్రాంతాలను క్రిమిరహితం చేయడానికి UV దీపాలను ఉపయోగించకూడదు. / UV lamps should not be used to sterilize hands or other areas of skin.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-31.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "మీ శరీరమంతా ఆల్కహాల్ లేదా క్లోరిన్ చల్లడం వైరస్ను చంపగలదా? /Can spraying alcohol or chlorine all over your body kill the virus?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి/ add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "బహుశా, క్లోరిన్ ప్రభావవంతమైన క్రిమిసంహారక మందు కాబట్టి. / Maybe, since chlorine is an effective disinfectant.",
+              "title": "మీ శరీరమంతా ఆల్కహాల్ లేదా క్లోరిన్ చల్లడం వల్ల మీ శరీరంలోకి ప్రవేశించిన వైరస్లను చంపలేరు. /No. Spraying alcohol or chlorine all over your body will not kill viruses that have already entered your body.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-33.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, ఆల్కహాల్ లేదా క్లోరిన్ చల్లడం సహాయపడదు /No, spraying alcohol or chlorine won't help",
+              "title": "మీ శరీరమంతా ఆల్కహాల్ లేదా క్లోరిన్ చల్లడం వల్ల మీ శరీరంలోకి ప్రవేశించిన వైరస్లను చంపలేరు. /Spraying alcohol or chlorine all over your body will not kill viruses that have already entered your body.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-33.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "ఈ వైరస్ కోసం ఏదైనా టీకాల గురించి మీరు విన్నారా? /Have you heard about any vaccines for this virus?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి/ add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, నేను కొన్ని గురించి విన్నాను / Yes, I've had heard about some",
+              "title": "న్యుమోనియాకు వ్యతిరేకంగా వ్యాక్సిన్లు, న్యుమోకాకల్ వ్యాక్సిన్ మరియు హేమోఫిలస్ ఇన్ఫ్లుఎంజా టైప్ బి (హిబ్) టీకా వంటివి కొత్త కరోనావైరస్ నుండి రక్షణను అందించవు.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/11.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, టీకాలు ఇంకా అందుబాటులో లేవు / No, vaccines are not yet available",
+              "title": "టీకాలు ఇంకా అందుబాటులో లేవు, కానీ ప్రపంచవ్యాప్తంగా పరిశోధకులు దీనిపై పని చేస్తున్నారు. / Vaccines are not yet available, but researchers around the globe are working on it.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/11.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "సెలైన్తో మీ ముక్కును కడగడం వైరస్ను నివారిస్తుందా? / Do rinsing your nose with saline prevent the virus?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, సెలైన్తో మీ ముక్కును కడగడం సహాయపడుతుంది / Yes, rinsing your nose with saline can help",
+              "title": "ముక్కును సెలైన్తో క్రమం తప్పకుండా కడగడం వైరస్ను నివారించడంలో ఎటువంటి ఆధారం లేదు. / No. There is NO evidence that regularly rinsing the nose with saline helps prevent the virus.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/23.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, మీ ముక్కును సెలైన్‌తో కడగడం సహాయపడదు /No, rinsing your nose with saline does not help",
+              "title": "ముక్కును క్రమం తప్పకుండా సెలైన్‌తో ప్రక్షాళన చేయడం వైరస్‌ను నివారించడంలో ఎటువంటి ఆధారం లేదు. / There is NO evidence that regularly rinsing the nose with saline helps prevent the virus.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/23.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "ఏదైనా నిర్దిష్ట వయస్సు-వర్గాలు ప్రమాదంలో ఉన్నాయో మీకు తెలుసా? / Do you know if any specific age-groups are at risk?",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, వృద్ధులు కావచ్చు / Yes, may be elderly ones ",
+              "title": "అన్ని వయసుల వారికి కొత్త కరోనావైరస్ (2019-nCoV) సోకుతుంది. కానీ, వృద్ధులు మరియు ముందుగా ఉన్న వైద్య పరిస్థితులు ఉన్నవారు ఎక్కువ హాని కలిగి ఉంటారు /People of all ages can be infected by the new coronavirus (2019-nCoV). But, Older people and people with pre-existing medical conditions appear to be more vulnerable",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-2.png",
+              "correctAnswer": true
+            },
+            {
+              "option": "అవును, రోగనిరోధక శక్తి తక్కువగా ఉన్నందున చిన్నపిల్లలు / Yes, little ones because of their poor immunity ",
+              "title": "అన్ని వయసుల వారికి కొత్త కరోనావైరస్ (2019-nCoV) సోకుతుంది. కానీ, వృద్ధులు మరియు ముందుగా ఉన్న వైద్య పరిస్థితులతో బాధపడుతున్న వ్యక్తులు ఎక్కువ హాని కలిగి ఉంటారు /People of all ages can be infected by the new coronavirus (2019-nCoV). But, Older people and people with pre-existing medical conditions appear to be more vulnerable",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-2.png",
+              "correctAnswer": true
+            },
+            {
+              "option": "చాలా ఖచ్చితంగా తెలియదు / Not quite sure",
+              "title": "అన్ని వయసుల వారికి కొత్త కరోనావైరస్ (2019-nCoV) సోకుతుంది. కానీ, వృద్ధులు మరియు ముందుగా ఉన్న వైద్య పరిస్థితులతో బాధపడుతున్న వ్యక్తులు ఎక్కువ హాని కలిగి ఉంటారు /People of all ages can be infected by the new coronavirus (2019-nCoV). But, Older people and people with pre-existing medical conditions appear to be more vulnerable",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-2.png",
+              "correctAnswer": true
+            }
+          ]
+        },
+        {
+          "title": "యాంటీబయాటిక్స్ వాడకం ప్రభావవంతంగా ఉందా? లేదా ఏదైనా నిర్దిష్ట మందులు తెలుసు / Is the use of antibiotics effective? Or know any specific medicines",
+          "description": "ప్రశ్న కోసం వివరణను జోడించండి / add description for question",
+          "hint": "",
+          "answers": [
+            {
+              "option": "అవును, జ్వరాన్ని యాంటీబయాటిక్స్‌తో పరిష్కరించవచ్చు, అప్పుడు ఎందుకు COVID-19 చేయకూడదు / Yes, fever can be dealt with antibiotics then why not COVID-19",
+              "title": "లేదు, యాంటీబయాటిక్స్ వైరస్లకు వ్యతిరేకంగా పనిచేయవు, బ్యాక్టీరియా మాత్రమే. /No, antibiotics do not work against viruses, only bacteria.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-3.png",
+              "correctAnswer": false
+            },
+            {
+              "option": "లేదు, ఎందుకంటే యాంటీబయాటిక్స్ బాక్టీరియల్ ఇన్ఫెక్షన్ల కోసం / No, because antibiotics are for bacterial infections",
+              "title": "యాంటీబయాటిక్స్ వైరస్లకు వ్యతిరేకంగా పనిచేయవు, బ్యాక్టీరియా మాత్రమే. /Antibiotics do not work against viruses, only bacteria.",
+              "description": [],
+              "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-3.png",
+              "correctAnswer": true
+            }
+          ]
+        }
+      ]
     }
 
   ],
